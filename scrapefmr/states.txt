@@ -1,0 +1,54 @@
+1.0">Alabama - AL
+2.0">Alaska - AK
+4.0">Arizona - AZ
+5.0">Arkansas - AR
+6.0">California - CA
+8.0">Colorado - CO
+9.0">Connecticut - CT
+10.0">Delaware - DE
+11.0">District of Columbia - DC
+12.0">Florida - FL
+13.0">Georgia - GA
+15.0">Hawaii - HI
+16.0">Idaho - ID
+17.0">Illinois - IL
+18.0">Indiana - IN
+19.0">Iowa - IA
+20.0">Kansas - KS
+21.0">Kentucky - KY
+22.0">Louisiana - LA
+23.0">Maine - ME
+24.0">Maryland - MD
+25.0">Massachusetts - MA
+26.0">Michigan - MI
+27.0">Minnesota - MN
+28.0">Mississippi - MS
+29.0">Missouri - MO
+30.0">Montana - MT
+31.0">Nebraska - NE
+32.0">Nevada - NV
+33.0">New Hampshire - NH
+34.0">New Jersey - NJ
+35.0">New Mexico - NM
+36.0">New York - NY
+37.0">North Carolina - NC
+38.0">North Dakota - ND
+39.0">Ohio - OH
+40.0">Oklahoma - OK
+41.0">Oregon - OR
+66.0">Pacific Islands - PI
+42.0">Pennsylvania - PA
+72.0">Puerto Rico - PR
+44.0">Rhode Island - RI
+45.0">South Carolina - SC
+46.0">South Dakota - SD
+47.0">Tennessee - TN
+48.0">Texas - TX
+49.0">Utah - UT
+50.0">Vermont - VT
+78.0">Virgin Islands - VI
+51.0">Virginia - VA
+53.0">Washington - WA
+54.0">West Virginia - WV
+55.0">Wisconsin - WI
+56.0">Wyoming - WY

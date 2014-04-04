@@ -1,0 +1,9 @@
+A node app for scrapping the fair market rent information provided but HUD department in the public web site.
+
+The app was developed using node and request. The algorithm take is asynchronous.
+
+The data is saved to a file called "fmr.json.arr" into the same folder.
+
+There is commented code because the file I generated was ready for using in Sencha as an Array instead of using json in order to reduce the size of the file almost in half.
+
+Enjoy!!!
